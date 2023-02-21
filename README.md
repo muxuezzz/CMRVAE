@@ -1,4 +1,4 @@
-# CMEVAE
+# CMRVAE
 Please wait; the source code will be made available shortly.
 
 # Implementation Details of CMEVAE
